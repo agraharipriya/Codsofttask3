@@ -57,7 +57,9 @@ form input.equal{
     width: 145px;
 }
 
-
+.display .result{
+    border-radius: 12px;
+}
 
 form input.operator{
     color: #0c2e3f;
